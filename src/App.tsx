@@ -21,9 +21,11 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
+        <p><b>It looks like this website isn't ready yet.</b></p>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
+        <p><b>Or just visit <a href='https://xavierkhew.com/'>xavierkhew.com</a></b></p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
